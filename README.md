@@ -14,3 +14,6 @@ An end-to-end analytical study evaluating decades of historical MLB player demog
 * **Common Table Expressions (CTEs):** Modularized multi-pass logic for milestone boundary detection.
 * **Conditional Aggregation:** Dynamic pivot summaries using `CASE WHEN` to extract batting stance percentages.
 * **Self-Joins & Set Logic:** Pinpointed shared birthdates and multi-decade tenure.
+
+## SQL Implementation
+All queries and data transformations are documented in [`mlb_advanced_sql_analysis.sql`](mlb_advanced_sql_analysis.sql).
